@@ -6,8 +6,7 @@
 </head>
 <body>
 
-  <h1>💱 Real-Time Currency Converter – Summary</h1>
-    <h2>🔹 Purpose:</h2>
+   <h2>🔹 Purpose:</h2>
     <p>
       To convert an entered amount from one currency to another using live data, and to visually show the associated country flags for each selected currency.
     </p>
